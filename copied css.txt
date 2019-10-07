@@ -1,0 +1,774 @@
+.nav {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: right;
+  position: absolute;
+  left: 704.938px;
+  top: 21.5px;
+  z-index: 4;
+}
+.nav_selection_mark {
+  background-color: rgb(59, 170, 254);
+  position: absolute;
+  left: 706px;
+  top: 47px;
+  width: 41px;
+  height: 3px;
+  z-index: 5;
+}
+.slider_text {
+  font-size: 48px;
+  font-family: "OpenSans";
+  color: rgb(230, 230, 230);
+  text-transform: uppercase;
+  line-height: 1.25;
+  text-align: right;
+  position: absolute;
+  left: 805.731px;
+  top: 326.762px;
+  z-index: 21;
+}
+.Buy_Now {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 3.333;
+  text-align: center;
+  position: absolute;
+  left: 962.844px;
+  top: 453.503px;
+  z-index: 28;
+}
+.bg {
+  background-color: rgb(250, 250, 250);
+  position: absolute;
+  left: 930px;
+  top: 455px;
+  width: 154px;
+  height: 57px;
+  z-index: 27;
+}
+.Learn_More {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 3.333;
+  text-align: center;
+  position: absolute;
+  left: 1135.844px;
+  top: 453.503px;
+  z-index: 24;
+}
+.bg {
+  background-color: rgb(85, 85, 85);
+  position: absolute;
+  left: 1104px;
+  top: 455px;
+  width: 180px;
+  height: 57px;
+  z-index: 23;
+}
+
+.bg {
+  background-color: rgb(245, 245, 245);
+  position: absolute;
+  left: 115px;
+  top: 833px;
+  width: 370px;
+  height: 175px;
+  z-index: 33;
+}
+
+.icon_bg {
+  border-radius: 50%;
+  background-color: rgb(59, 170, 254);
+  position: absolute;
+  left: 146px;
+  top: 803px;
+  width: 60px;
+  height: 60px;
+  z-index: 36;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  position: absolute;
+  left: 144.844px;
+  top: 879.497px;
+  z-index: 40;
+}
+.title {
+  font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 454.877px;
+  top: 1147px;
+  z-index: 73;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 453.937px;
+  top: 1244.25px;
+  width: 589px;
+  height: 56px;
+  z-index: 74;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.167;
+  text-align: left;
+  position: absolute;
+  left: 524.844px;
+  top: 1318.997px;
+  z-index: 81;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 523.937px;
+  top: 1369.25px;
+  width: 183px;
+  height: 35px;
+  z-index: 82;
+}
+.What_We_Do {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.5;
+  text-align: left;
+  position: absolute;
+  left: 622.877px;
+  top: 1617.5px;
+  z-index: 112;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 167.844px;
+  top: 1752.503px;
+  z-index: 127;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 113.937px;
+  top: 1815.25px;
+  width: 265px;
+  height: 53px;
+  z-index: 128;
+}
+.How_We_Work {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 154.937px;
+  top: 2205.5px;
+  z-index: 193;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 154.994px;
+  top: 2279.25px;
+  width: 655px;
+  height: 56px;
+  z-index: 194;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 200.937px;
+  top: 2396.25px;
+  width: 195px;
+  height: 77px;
+  z-index: 200;
+}
+.We_Deploy {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  position: absolute;
+  left: 753.909px;
+  top: 2340.497px;
+  z-index: 217;
+}
+.base {
+  border-style: solid;
+  border-width: 10px;
+  border-color: rgb(230, 230, 230);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 139px;
+  top: 2787px;
+  width: 146px;
+  height: 171px;
+  z-index: 258;
+}
+.Cristina_Eva {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 4.286;
+  text-align: left;
+  position: absolute;
+  left: 315.937px;
+  top: 2821.998px;
+  z-index: 236;
+}
+.Founder___Ceo {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 5;
+  text-align: left;
+  position: absolute;
+  left: 316.937px;
+  top: 2858.5px;
+  z-index: 240;
+}
+.bio {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 318.134px;
+  top: 3196.25px;
+  width: 337px;
+  height: 56px;
+  z-index: 302;
+}
+.title {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 753.937px;
+  top: 3449.996px;
+  z-index: 357;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 753.988px;
+  top: 3498.25px;
+  width: 424px;
+  height: 266px;
+  z-index: 358;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 753.988px;
+  top: 3498.25px;
+  width: 424px;
+  height: 266px;
+  z-index: 358;
+}
+.Graphic_Design {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(119, 119, 119);
+  text-transform: uppercase;
+  line-height: 5;
+  text-align: center;
+  position: absolute;
+  left: 492.938px;
+  top: 3972.5px;
+  z-index: 524;
+}
+.Best_Work_Environment {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 753.844px;
+  top: 4613.7px;
+  z-index: 583;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 754.988px;
+  top: 4690.25px;
+  width: 514px;
+  height: 56px;
+  z-index: 584;
+}
+.Lorem_ipsum_dolor_sit_amet__consec_tetur_adipi_ {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 753.937px;
+  top: 4827.25px;
+  width: 242px;
+  height: 56px;
+  z-index: 587;
+}
+.We_make_the_different_and_we_love_to_do_it {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  position: absolute;
+  left: 134.844px;
+  top: 5424.25px;
+  width: 208px;
+  height: 31px;
+  z-index: 620;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 134.988px;
+  top: 5485.25px;
+  width: 223px;
+  height: 56px;
+  z-index: 624;
+}
+.Web_Design____Read_More_ {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  position: absolute;
+  left: 134.935px;
+  top: 5544.498px;
+  z-index: 628;
+}
+.bg {
+  background-image: -moz-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: -3px;
+  top: 5733px;
+  width: 1400px;
+  height: 460px;
+  z-index: 698;
+}
+.View_All {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: center;
+  position: absolute;
+  left: 1199.844px;
+  top: 5619.498px;
+  z-index: 694;
+}
+.btn_bg {
+  background-color: rgb(85, 85, 85);
+  position: absolute;
+  left: 1170px;
+  top: 5612px;
+  width: 115px;
+  height: 35px;
+  z-index: 693;
+}
+.bg {
+  background-image: -moz-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(245,245,245) 0%, rgb(255,255,255) 100%);
+  position: absolute;
+  left: -3px;
+  top: 5733px;
+  width: 1400px;
+  height: 460px;
+  z-index: 698;
+}
+.speech_bg {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 115px;
+  top: 5817px;
+  width: 428px;
+  height: 191px;
+  z-index: 701;
+}
+.testimonial_text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 143.937px;
+  top: 5883.25px;
+  width: 364px;
+  height: 98px;
+  z-index: 704;
+}
+.author_info {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: right;
+  position: absolute;
+  left: 402.938px;
+  top: 6044.75px;
+  z-index: 705;
+}
+.bg {
+  background-color: rgb(230, 230, 230);
+  position: absolute;
+  left: 115px;
+  top: 6379px;
+  width: 270px;
+  height: 50px;
+  z-index: 740;
+}
+.Startaer {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 205.096px;
+  top: 6392.5px;
+  z-index: 741;
+}
+.standard {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 503.096px;
+  top: 6392.5px;
+  z-index: 771;
+}
+.Business {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 808.844px;
+  top: 6392.5px;
+  z-index: 801;
+}
+.Sign_up {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 212.095px;
+  top: 6671px;
+  z-index: 765;
+}
+.Sign_up {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 514.095px;
+  top: 6671px;
+  z-index: 795;
+}
+.storage_1gb {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 1.929;
+  text-align: center;
+  position: absolute;
+  left: 203.134px;
+  top: 6505.497px;
+  z-index: 749;
+}
+.Per_Month__99 {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 1.929;
+  text-align: center;
+  position: absolute;
+  left: 177.938px;
+  top: 6469.234px;
+  z-index: 745;
+}
+.Some_Fun_Facts {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.125;
+  text-align: center;
+  position: absolute;
+  left: 598.273px;
+  top: 6839px;
+  z-index: 864;
+}
+._777_Clients_Served {
+  font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: left;
+  position: absolute;
+  left: 395.134px;
+  top: 6992.984px;
+  z-index: 866;
+}
+.some_text_for_site {
+  font-size: 14px;
+  font-family: "NotoSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 115.988px;
+  top: 7561.25px;
+  width: 267px;
+  height: 98px;
+  z-index: 931;
+}
+.Bardeshi__Amin_Bazar_Savar__Dhaka___1348_Bangla {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  position: absolute;
+  left: 416.044px;
+  top: 7562.25px;
+  width: 167px;
+  height: 158px;
+  z-index: 953;
+}
+.Address {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 414.937px;
+  top: 7489.5px;
+  z-index: 952;
+}
+.Useful_Links {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 614.937px;
+  top: 7489.5px;
+  z-index: 956;
+}
+.Terms___Condition_Privacy_Policy_Legal_Section_ {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.786;
+  position: absolute;
+  left: 614.923px;
+  top: 7566.25px;
+  width: 124px;
+  height: 164px;
+  z-index: 957;
+}
+.Contact {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 812.937px;
+  top: 7489.5px;
+  z-index: 960;
+}
+.Write_Your_Message_Here {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 828.844px;
+  top: 7622.75px;
+  z-index: 971;
+}
+.bottom_seperator {
+  background-color: rgb(182, 182, 182);
+  opacity: 0.502;
+  position: absolute;
+  left: 115px;
+  top: 7782px;
+  width: 1170px;
+  height: 1px;
+  z-index: 979;
+}
+.copyright {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 611.938px;
+  top: 7797.85px;
+  z-index: 980;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

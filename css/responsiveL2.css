@@ -1,0 +1,101 @@
+@media only screen and (max-width: 1349px) {
+    .up-head{
+        background-color: #fafafa;
+        min-width: 62em;
+        width: 62em;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .down-head, .downer-head{
+        background-color: #7a7878;
+        min-width: 62em;
+        width: 62em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .row1-mid{
+        min-width: 62em;
+        width: 62em;
+        margin-right: auto;
+        margin-left: auto;
+    
+    }
+    .row2-mid{
+        margin-right: auto;
+        margin-left: auto;
+        min-width: 62em;
+        width: 62em;
+        background-color: #7a7878;
+    }
+    .row3-mid, .row4-mid, .row5-mid, .row6-out, .row7-mid, .row8-mid, .row9-mid, .row10-mid, .row11-mid, .row12-mid, .row13-mid, .footer-mid{
+        min-width: 62em;
+        width: 62em;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    .row-9 .container .wrapper{
+        position: absolute;
+        margin-bottom: 125px;
+        left: 0px;
+        width: 272.6266%;
+    }
+    .nav-li {
+        width: auto;
+        text-align: center;
+        font-size: 14px;
+        padding-left: 5.5px;
+        padding-right: 5.5px;
+    }
+    .rocket1-div, .rocket3-div {
+        bottom: 100px;
+    }
+    .rocket2-div {
+        bottom: 130px;
+    }
+    .image-div-r5 div {
+        bottom: 20px;
+        left: -20px;
+    }
+    .row-7 .first-ul {
+        width: 70.8967%;
+    }
+    .row-10 .circles div {
+        margin-right: 0px;
+    }
+    .row-10 .left {
+        width: calc(100% - 304px);
+    }
+    .row-11 .row11-firstul li {
+        margin-right: 20px;
+    }
+    .row-10 .left-up .quote {
+        bottom: 180px;
+    }
+    .row-12 ul li {
+        margin-right: 50px;
+    }
+    .row-12 ul li .left {
+        width: 46%;
+    }
+    .row-13 ul li {
+        margin-right: 20px;
+        margin-left: 90px;
+    }
+    .footer li.first {
+        margin-right: 20px;
+    }
+    .footer li.second {
+        margin-right: 20px;
+    }
+    .footer li.third {
+        margin-right: 53px;
+    }
+    .footer li.fourth input.name {
+        margin-right: 1px;
+    }
+    .footer .fimg-wrapper {
+        margin-right: 5px;
+    }
+}

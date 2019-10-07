@@ -1,0 +1,637 @@
+@media only screen and (max-width: 1399px) {
+
+.clearfix::before, .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  } 
+  .float-left{
+      float: left;
+  }
+  .float-right{
+      float: right;
+  }
+  li{
+      list-style: none;
+  }
+  a{
+      text-decoration: none;
+      color: black;
+  }
+  .nav-li{
+      width:14.2857%;
+      text-align: center;
+      font-size: 14px;
+  }
+  .nav-li a{
+    color: #b3b3b3;
+  }
+  .nav-li a:hover{
+      border-bottom: 3px solid #3baafe;
+  }
+  .imgbox{
+      margin-top: 10px;
+  }
+  .imglogo{
+    margin-bottom: 10px;
+  }
+ .buy a{
+    color: rgb(119, 119, 119);
+ }
+ .learn a{
+    color: rgb(255, 255, 255);
+ } 
+ .rocket1-icon{
+    background-color: #3baafe; 
+    position: absolute;
+    
+    margin: 15px;
+ }
+.rocket2-icon,.rocket3-icon{
+    background-color: #555555; 
+    position: absolute;
+    margin: 15px;
+}
+.text {
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 8.0645%;
+  }
+.row2-para{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 5.7949%; 
+    width: 87.0728%;
+}
+
+.choose-list ul li{
+    width: 37.7415%;
+    margin-right: 4.3091%;
+    margin-bottom: 34px;
+}
+
+.row2-article p{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+}
+.row2img-wrapper img{
+    margin: 9px;
+}
+.title{
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  margin-left: 8.0645%;
+  height: calc(50% - 60px);
+}
+.row2-title{
+    font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  margin-left: 5.7949%; 
+  padding-top: 60px;
+    padding-bottom: 40px;
+}
+.row2-article div{
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  line-height: 1.167;
+  text-align: left;
+}
+.row-3 ul li{
+    width: 23.0769%;
+    margin-bottom: 32px;
+    margin-left: 1.5%;
+}
+.row3-title span{
+    font-size: 24px;
+    font-family: "NotoSans";
+    color: rgb(59, 170, 254);
+    font-weight: bold;
+    line-height: 2.5;
+    text-align: left;  
+}
+.row3-title img{
+    width: 17px;
+    margin-right: 0.5%;
+
+}
+.row3img-wrapper img{
+    margin: 9px;
+}
+.row-3 ul li p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+}
+.topic{
+    margin-left: 4%;
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+  text-align: left;
+  line-height: 1.4;
+  width: calc(96% - 40px);
+}
+.row4-wrapper ul li{
+    width: 31.8%;
+}
+.row4-wrapper ul li:first-child{
+    margin-left: 3.44%;
+}
+.row4-para{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  margin-left: 3.44%;
+  margin-bottom: 35px;
+
+}
+.row4-wrapper ul li div p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+}
+.row4-wrapper ul li .article div{
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  line-height: 1.667;
+  text-align: left;
+}
+.row4img-wrapper img{
+    margin: 9px;
+}
+.row4-title{
+    font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  padding-top: 45px;
+    padding-bottom: 35px;
+    margin-left: 3.44%;
+}
+.row-5 .main-ul{
+    width: 83.6428%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row-5 .main-ul .main-ul-li{
+    background-color: #f5f5f5;
+    width: 45%;
+    margin-bottom: 50px;
+    margin-left: 5%;
+}
+.row5img-wrapper img{
+    margin: 5px;
+}
+.row-5 .social-media{
+    margin-left: 4%;
+    padding-bottom: 10px;
+}
+.row-5 .side-div p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+}
+.row5-title img{
+    width: 17px;
+    margin-right: 0.5%;
+}
+.row5-title span {
+    font-size: 24px;
+    font-family: "NotoSans";
+    color: rgb(59, 170, 254);
+    font-weight: bold;
+    line-height: 2.5;
+    text-align: left;
+}
+.row-5 .div1{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  line-height: 2.5;
+  text-align: left;
+  background-color:white;
+    width: 50%;
+}
+.row-5 .div2{
+    font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 2;
+  text-align: left;
+  background-color: #e6e6e6;
+    width: 50%;
+}
+.row-6 .row6-para{
+    width: 60%;
+}
+.row-6 ul{
+    width: 60%;  
+}
+.div-a img{
+    margin: 9px;
+}
+.row6-para{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.row-6 ul li{
+    margin-bottom: 10px;
+}
+.row6-title{
+    font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+}
+.row-6 .div-b{
+    width: calc(98% - 40px);
+    font-size: 14px;
+ font-family: "OpenSans";
+ color: rgb(153, 153, 153);
+ line-height: 1.5;
+ text-align: left;
+ margin-left: 2%;
+}
+.row-7 .first-ul li a{
+    font-size: 12px;
+    font-family: "OpenSans";
+    color: rgb(119, 119, 119);
+ }
+.row-8 .row8-title{
+    font-size: 18px;
+    font-family: "NotoSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    margin-left: 5.8224%;
+    margin-bottom: 42px;
+}
+.row-8 .row8-para{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  width: 74.818%;
+  margin-left: 5.8224%;
+  margin-bottom: 48px;
+
+}
+.row-8 ul li p{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  margin-top: 22px;
+}
+.row-9 .snippet .snippet-head{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(119, 119, 119);
+    font-weight: bold;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+    padding-top: 16px;
+    padding-left: 20px;
+    padding-bottom: 16px;
+}
+.row-9 .snippet .snippet-content{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  background-color: #fafafa;
+  padding-left: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  width: 82.59%;
+  padding-right: 27px;
+}
+.row-9 .snippet .snippet-last{
+    background-color: #f5f5f5;
+    font-size: 12px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    font-weight: bold;
+    line-height: 1.667;
+    text-align: left;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.row9-buttons .view-all{
+    font-size: 12px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+    width: 9.8123%;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+.row-10 .left-up .quote{
+    position: absolute;
+    bottom: 118px;
+    margin-left: 32px;
+}
+.row-10 .left-up p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+    width: 90%;
+    margin-left: 32px; 
+}
+.row-10 .left-down{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(119, 119, 119);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: right;
+    width: 99%;   
+}
+.row-11 .row11-secul .i{
+    background-color: rgb(230, 230, 230);
+    font-size: 18px;
+    font-family: "NotoSans";
+    color: rgb(59, 170, 254);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);  
+    padding-top: 16px;
+    padding-bottom: 16px;  
+}
+.row-11 .row11-secul .ii{
+    background-color: #b6b6b6;
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.row-11 .row11-secul .iii{
+    background-color: #999999;
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+}
+.row-11 .row11-secul .iiii{
+    background-color: #777777;
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+}
+.row-11 .row11-firstul li:first-child .row11-secul li:last-child{
+    background-color:  #3baafe;
+    font-size: 18px;
+   font-family: "NotoSans";
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+   line-height: 1.5;
+   text-align: center;
+   padding-top: 16px;
+   padding-bottom: 16px; 
+ }
+ .row-11 .row11-firstul .row11-secul li:last-child{
+     background-color: #e6e6e6;
+     font-size: 18px;
+     font-family: "NotoSans";
+     color: rgb(119, 119, 119);
+     font-weight: bold;
+     text-transform: uppercase;
+     line-height: 1.5;
+     text-align: center;
+     padding-top: 16px;
+     padding-bottom: 16px;   
+ }
+ .row-11 .row11-secul .odd{
+    background-color: #fafafa;
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.929;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.row-11 .row11-secul .even{
+   background-color:  #f5f5f5;
+   font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.929;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.row-11 .row11-secul span{
+    font-size: 34px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.929;
+  text-align: center;
+  font-weight: bold;
+}
+.row-12 .row12-title{
+    font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.125;
+  text-align: center;
+  padding-top: 38px;
+  padding-bottom: 92px;
+}
+.row-12 ul li .left{
+    width:47%;
+    border-right: 1px solid white;
+}
+.row-12 ul li .right{
+    width: 47%;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    margin-left: 5px;
+}
+.row-12 ul li .right span{
+    font-size: 24px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+}
+.footer .fimg-wrapper{
+    width: 40px;
+    background-color:#b6b6b6;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.footer .fimg-wrapper img{
+    margin-left: 11px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.footer li.first p{
+    font-size: 14px;
+    font-family: "NotoSans";
+    color: rgb(153, 153, 153);
+    line-height: 1.5;
+    text-align: left;
+}
+.footer li.second p, .footer li.second div{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+}
+.footer li.second p{
+    margin-bottom: 29px;
+}
+.footer li.second .sec-email{
+    margin-bottom: 29px; 
+}
+.footer li.second .address{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 38px;
+}
+
+.footer li.third .useful{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 37px;
+
+}
+.footer li.third ul li{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.786;
+}
+.footer li.fourth .contact{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.5;
+    text-align: left;
+    margin-bottom: 38px;
+}
+.footer li.fourth input.name{
+    margin-right: 10px;
+}
+.footer li.fourth input{
+    border: none;
+    background-color: #999999;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 14px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-family: "OpenSans"; 
+    width:45%; 
+}
+.footer li.fourth textarea{
+    border: none;
+    width: 96%;
+    background-color: #999999;
+    padding-left: 15px;
+    padding-bottom: 84px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    font-size: 14px;
+    font-family: "OpenSans";  
+}
+.footer li.fourth button{
+    border: none;
+    width: 100%;
+    background-color: #999999;
+    color: #797979;
+    padding-left: 14px;
+    padding-bottom: 15px;
+    margin-bottom: 29px;
+    padding-top: 15px;
+    font-size: 14px;
+    font-family: "OpenSans";  
+}
+.footer li.first div, .footer li.first p{
+    margin-bottom: 30px;
+}
+
+}
